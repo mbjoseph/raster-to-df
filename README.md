@@ -11,7 +11,7 @@ following command line utilities:
 - wget
 - unzip
 - printf
--time
+- time
 
 It also assumes you have conda and the 
 [earth-analytics-python](https://github.com/earthlab/earth-analytics-python-env) 
